@@ -127,3 +127,12 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# bat
+*.bat
+
+# models
+model/u2net.onnx
+model/u2net.onnx
+model/u2net_portrait.onnx
+model/u2net_human_seg.onnx
